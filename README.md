@@ -1,2 +1,3 @@
-# checkpoint
-Checkpoint Reactive
+# Checkpoint
+
+A system to automate Things
